@@ -1,0 +1,23 @@
+a. queda con:
+	CPUBeta.txt
+	CPUGamma.txt
+	CPUalfa.txt
+	README.md
+	beta.txt
+	datos.txt
+	respuesta_I3_Equipo111.txt
+
+b. si, beta pudo ver todos los cambios realisados
+
+c. primero tiene que pulsar en el boton de merge y adregas un comentario y haces el pull requests
+
+d. Las ramas de BETA y GAMMA solo se actualizan si hacemos un merge o un pull desde main.
+
+e. No tuvimos ningun problema.
+
+f. Los comando utlizados fueron:
+nano beta.txt
+git add beta.txt
+git commit -m ""
+git push origin beta
+
