@@ -1,0 +1,13 @@
+a. queda con:
+	CPUBeta.txt
+	CPUGamma.txt
+	CPUalfa.txt
+	README.md
+	beta.txt
+	datos.txt
+	respuesta_I3_Equipo111.txt
+
+b. si, beta pudo ver todos los cambios realisados
+
+c. primero tiene que pulsar en el boton de merge y adregas un comentario y haces el pull requests
+
