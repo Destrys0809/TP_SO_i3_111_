@@ -40,3 +40,9 @@ Adaptador de Ethernet Ethernet:
 
 Hora 18:48
 
+Nombre: Florencia Alessi 
+IP: 192.168.56.1
+
+Hora: 15:47
+
+
