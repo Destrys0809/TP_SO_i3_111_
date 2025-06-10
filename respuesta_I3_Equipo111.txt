@@ -11,3 +11,22 @@ b. si, beta pudo ver todos los cambios realisados
 
 c. primero tiene que pulsar en el boton de merge y adregas un comentario y haces el pull requests
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+8- alfa para resolver el punto 8 primero tuvo que entrar a la rama "Alba" con git clone --branch Alba --single-branch https://github.com/Destrys0809/TP_SO_i3_111_.git
+despues hacer un git pull para obtener la informacion de beta y gamma, luego modifique el arcivo beta.txt
+agregando su nombre y apellido , la información que retorna el ifconfig , la hora con los siguiente comandos 
+echo "Nombre: Agustin Apellido: Balcedo" > beta.txt, luego ipconfig >> beta.txt, luego un 
+echo " la hora actual es: (la hora), git add beta.txt para guardar, git commit -m " datos alfa"
+y luego un git push 
